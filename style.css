@@ -671,8 +671,7 @@ canvas {
 /* Events List */
 .events_list {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* 5 columns */
-    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 0.4rem;
 }
 
